@@ -1,21 +1,21 @@
 Manifest-Version: 1.0
-Bnd-LastModified: 1542730635789
+Bnd-LastModified: 1542796115370
 Build-Jdk: 1.8.0_192
 Built-By: jasonkohler
 Bundle-Description: Core bundle for WKND Sites Project
 Bundle-ManifestVersion: 2
 Bundle-Name: WKND Sites Project - Core
 Bundle-SymbolicName: com.adobe.aem.guides.aem-guides-wknd.core
-Bundle-Version: 1.0.0.SNAPSHOT
+Bundle-Version: 0.0.1.SNAPSHOT
 Created-By: Apache Maven Bundle Plugin
 Export-Package: com.adobe.aem.guides.wknd.core.filters;uses:="javax.serv
- let";version="1.0.0",com.adobe.aem.guides.wknd.core.servlets;uses:="jav
+ let";version="0.0.1",com.adobe.aem.guides.wknd.core.servlets;uses:="jav
  ax.servlet,org.apache.sling.api,org.apache.sling.api.servlets";version=
- "1.0.0",com.adobe.aem.guides.wknd.core.models;uses:="javax.annotation,j
+ "0.0.1",com.adobe.aem.guides.wknd.core.models;uses:="javax.annotation,j
  avax.inject,org.apache.sling.api.resource,org.apache.sling.models.annot
- ations";version="1.0.0",com.adobe.aem.guides.wknd.core;version="1.0",co
+ ations";version="0.0.1",com.adobe.aem.guides.wknd.core;version="1.0",co
  m.adobe.aem.guides.wknd.core.listeners;uses:="org.osgi.service.event";v
- ersion="1.0.0",com.adobe.aem.guides.wknd.core.schedulers;version="1.0.0
+ ersion="0.0.1",com.adobe.aem.guides.wknd.core.schedulers;version="0.0.1
  "
 Import-Package: javax.inject;version="0.0.0",javax.annotation,javax.serv
  let,org.apache.sling.api;version="[2.3,3)",org.apache.sling.api.request

@@ -4,9 +4,10 @@
 <comment>WKND Sites Project - UI content</comment>
 <entry key="createdBy">jasonkohler</entry>
 <entry key="name">aem-guides-wknd.ui.content</entry>
-<entry key="created">2018-11-20T16:17:19.816+0000</entry>
+<entry key="acHandling">merge_preserve</entry>
+<entry key="created">2018-11-21T10:28:38.323+0000</entry>
 <entry key="groupId">com.adobe.aem.guides</entry>
-<entry key="version">1.0-SNAPSHOT</entry>
+<entry key="version">0.0.1-SNAPSHOT</entry>
 <entry key="requiresRoot">false</entry>
 <entry key="group">aem-guides/wknd</entry>
 <entry key="description">UI content package for WKND Sites Project</entry>

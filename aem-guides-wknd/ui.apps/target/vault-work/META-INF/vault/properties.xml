@@ -4,9 +4,9 @@
 <comment>WKND Sites Project - UI apps</comment>
 <entry key="createdBy">jasonkohler</entry>
 <entry key="name">aem-guides-wknd.ui.apps</entry>
-<entry key="created">2018-11-20T16:17:16.604+0000</entry>
+<entry key="created">2018-11-21T10:28:36.108+0000</entry>
 <entry key="groupId">com.adobe.aem.guides</entry>
-<entry key="version">1.0-SNAPSHOT</entry>
+<entry key="version">0.0.1-SNAPSHOT</entry>
 <entry key="requiresRoot">false</entry>
 <entry key="group">aem-guides/wknd</entry>
 <entry key="description">UI apps package for WKND Sites Project</entry>
